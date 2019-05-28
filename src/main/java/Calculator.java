@@ -1,8 +1,6 @@
 public class Calculator {
 
     public Calculator(){
-
-
     }
 
     public int addNums(int val1,int val2){
